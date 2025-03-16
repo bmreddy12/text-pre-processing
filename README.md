@@ -1,5 +1,5 @@
 
-Requires python > 3.10
+Requires python >= 3.10
 
 `pip install pipenv`
 
